@@ -34,17 +34,23 @@ comments: true
 最后介绍编辑距离(Edit Distance) —— 用于度量两个字符串的相似度。
 
 编辑距离在自然语言处理中有着广泛的应用，如：
+
 > - 拼写矫正(Spelling Correction)
+>
 > - 语音识别(Speech Recognition)
+>
 > - 指代消解(Coreference Resolution)
 
 2 正则表达式
 ======
 正则表达式： Regular Expression(RE)
 
-一种指定文本搜索字符串的语言， 应用的非常的广泛，
-- 每一种计算机语言中
+一种指定文本搜索字符串的语言， 应用的非常的广泛, 如下：
+
+- 每一种计算机语言中都用到正则表达式
+
 - 文本处理器
+
 - 文本处理工具（像Unix工具grep或者Emacs）
 
 正则表达式的正式定义：
